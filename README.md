@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm kyunull from HIT<br><br>- 🔭 I’m working as a designer<br>- 📚 I'm currently learning vue3<br>- ⚡ In my free time I do arts</p>
 
 ###
 
